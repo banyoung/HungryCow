@@ -1,0 +1,7 @@
+Version 1.0 of Hungry Cow
+
+Core Classes and Methods from RealtutsGML
+
+-Screen
+-Input
+-Actors
