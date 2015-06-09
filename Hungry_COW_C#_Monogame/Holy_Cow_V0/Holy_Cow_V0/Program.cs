@@ -14,7 +14,7 @@ namespace Holy_Cow_V0
         [STAThread]
         static void Main()
         {
-            using (var game = new Game1())
+            using (var game = new HolyGame())
                 game.Run();
         }
     }

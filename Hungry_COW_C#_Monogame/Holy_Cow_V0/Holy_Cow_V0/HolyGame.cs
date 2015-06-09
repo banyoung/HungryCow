@@ -1,4 +1,6 @@
-﻿using Microsoft.Xna.Framework;
+﻿using System;
+using System.IO;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
@@ -7,15 +9,20 @@ namespace Holy_Cow_V0
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
-    public class Game1 : Game
+    public class HolyGame : Microsoft.Xna.Framework.Game
     {
-        GraphicsDeviceManager graphics;
-        SpriteBatch spriteBatch;
+        // Resources for drawing
+        private GraphicsDeviceManager graphics;
+        private SpriteBatch spriteBatch;
+        Vector2 baseScreenSize = new Vector2(800, 480);
 
-        public Game1()
+
+        public HolyGame()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            graphics.IsFullScreen = true;
         }
 
         /// <summary>
@@ -27,7 +34,6 @@ namespace Holy_Cow_V0
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
             base.Initialize();
         }
 
