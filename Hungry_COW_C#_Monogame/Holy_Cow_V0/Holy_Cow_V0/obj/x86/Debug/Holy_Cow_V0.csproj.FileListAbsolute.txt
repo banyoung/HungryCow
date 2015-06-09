@@ -23,3 +23,28 @@ c:\users\pfuetz\documents\visual studio 2013\Projects\Holy_Cow_V0\Holy_Cow_V0\bi
 c:\users\pfuetz\documents\visual studio 2013\Projects\Holy_Cow_V0\Holy_Cow_V0\obj\x86\Debug\Holy_Cow_V0.csprojResolveAssemblyReference.cache
 c:\users\pfuetz\documents\visual studio 2013\Projects\Holy_Cow_V0\Holy_Cow_V0\obj\x86\Debug\Holy_Cow_V0.exe
 c:\users\pfuetz\documents\visual studio 2013\Projects\Holy_Cow_V0\Holy_Cow_V0\obj\x86\Debug\Holy_Cow_V0.pdb
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\obj\x86\Debug\Holy_Cow_V0.exe
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\obj\x86\Debug\Holy_Cow_V0.pdb
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\Holy_Cow_V0.exe
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\Holy_Cow_V0.pdb
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Pfuetz\Documents\GitHub\HungryCow\Hungry_COW_C#_Monogame\Holy_Cow_V0\Holy_Cow_V0\obj\x86\Debug\Holy_Cow_V0.csprojResolveAssemblyReference.cache
