@@ -14,6 +14,7 @@ namespace Holy_Cow_V0
         [STAThread]
         static void Main()
         {
+            Console.WriteLine("HelloGitWorld!");
             using (var game = new Game1())
                 game.Run();
         }
