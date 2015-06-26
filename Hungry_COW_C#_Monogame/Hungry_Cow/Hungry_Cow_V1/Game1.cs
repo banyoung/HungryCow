@@ -6,14 +6,17 @@ namespace Hungry_Cow_V1
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
-    public class Game1 : Game
+    public class HungryGame : Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-     
-
+        
+        private Screen currentScreen;
+        private MenuScreen menuScreen;
+        private GameScreen gameScreen;
+        
        
-        public Game1()
+        public HungryGame()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
@@ -28,7 +31,9 @@ namespace Hungry_Cow_V1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            
+            menuScreen = new MenuScreen("menu", this);
+            gameScreen = new GameScreen("game", this);
+            currentScreen = menuScreen;
 
             graphics.SupportedOrientations = DisplayOrientation.LandscapeLeft | DisplayOrientation.LandscapeRight;
             base.Initialize();
@@ -42,7 +47,8 @@ namespace Hungry_Cow_V1
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            // TODO: use this.Content to load your game content here
+            menuScreen.loadContent(Content);
+            gameScreen.loadContent(Content);
         }
 
         /// <summary>
@@ -62,7 +68,7 @@ namespace Hungry_Cow_V1
         protected override void Update(GameTime gameTime)
         {
             // TODO: Add your update logic here
-
+            currentScreen.update(gameTime);
             base.Update(gameTime);
         }
 
@@ -73,9 +79,28 @@ namespace Hungry_Cow_V1
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-
+            spriteBatch.Begin();
+            currentScreen.draw(spriteBatch);
+            spriteBatch.End();
            
             base.Draw(gameTime);
         }
+
+        #region getter and setter functions
+        public MenuScreen getMenuScreen()
+        {
+            return menuScreen;
+        }
+
+        public GameScreen getGameScreen()
+        {
+            return gameScreen;
+        }
+
+        public void setCurrentScreen(Screen screen)
+        {
+            currentScreen = screen;
+        }
+        #endregion
     }
 }

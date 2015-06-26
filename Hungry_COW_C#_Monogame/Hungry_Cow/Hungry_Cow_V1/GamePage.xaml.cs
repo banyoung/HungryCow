@@ -22,7 +22,7 @@ namespace Hungry_Cow_V1
     /// </summary>
     public sealed partial class GamePage : SwapChainBackgroundPanel
     {
-        readonly Game1 _game;
+        readonly HungryGame _game;
         public GamePage()
         {
             this.InitializeComponent();
@@ -30,7 +30,7 @@ namespace Hungry_Cow_V1
 
         public GamePage(string launchArguments)
         {
-            _game = XamlGame<Game1>.Create(launchArguments, Window.Current.CoreWindow, this);
+            _game = XamlGame<HungryGame>.Create(launchArguments, Window.Current.CoreWindow, this);
         }
     }
 }
