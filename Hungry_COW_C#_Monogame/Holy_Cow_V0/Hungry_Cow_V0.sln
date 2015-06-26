@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holy_Cow_V0", "Holy_Cow_V0\Holy_Cow_V0.csproj", "{3D0CC8B6-FE62-4DB0-9162-B688DB1C8D83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hungry_Cow_V0", "Holy_Cow_V0\Hungry_Cow_V0.csproj", "{3D0CC8B6-FE62-4DB0-9162-B688DB1C8D83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

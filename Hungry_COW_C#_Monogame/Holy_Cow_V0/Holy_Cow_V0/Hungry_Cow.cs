@@ -9,7 +9,7 @@ namespace Holy_Cow_V0
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
-    public class HolyGame : Microsoft.Xna.Framework.Game
+    public class Hungry_Cow : Microsoft.Xna.Framework.Game
     {
         // Resources for drawing
         private GraphicsDeviceManager graphics;
@@ -17,7 +17,7 @@ namespace Holy_Cow_V0
         Vector2 baseScreenSize = new Vector2(800, 480);
 
 
-        public HolyGame()
+        public Hungry_Cow()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
